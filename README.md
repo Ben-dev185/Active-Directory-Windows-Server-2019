@@ -56,7 +56,7 @@ Ce projet a pour objectif la mise en place d'une infrastructure Active Directory
 
 ### Tableau de bord Windows Server
 
-![Server Manager](captures/server-manager.png)
+![Server Manager](https://github.com/Ben-dev185/Active-Directory-Windows-Server-2019/blob/de42371b56433d1fdd2801fc8a7de6407af76bc3/Gestionnaire%20de%20serveur.png)
 
 ### Active Directory Users and Computers
 
