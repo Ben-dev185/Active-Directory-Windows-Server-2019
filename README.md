@@ -66,7 +66,7 @@ Ce projet a pour objectif la mise en place d'une infrastructure Active Directory
 
 ![Client](https://github.com/Ben-dev185/Active-Directory-Windows-Server-2019/blob/bc947eb54badbc5fc5ae62aecb639210c44bc954/poste%20client%201.png)
 
-![Client](captures/client-domain.png)
+![Client](https://github.com/Ben-dev185/Active-Directory-Windows-Server-2019/blob/33148d841cc74d5afba5c94ab4ff3d13d599692d/poste%20client%202.png)
 
 ## Compétences démontrées
 
