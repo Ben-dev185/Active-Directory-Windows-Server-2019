@@ -60,9 +60,11 @@ Ce projet a pour objectif la mise en place d'une infrastructure Active Directory
 
 ### Active Directory Users and Computers
 
-![ADUC](captures/ad-users-computers.png)
+![ADUC](https://github.com/Ben-dev185/Active-Directory-Windows-Server-2019/blob/8149d870330de0f247c15d38d313e13d54780902/console%20%20Active%20Directory.png)
 
 ### Poste client intégré au domaine
+
+![Client](captures/client-domain.png)
 
 ![Client](captures/client-domain.png)
 
