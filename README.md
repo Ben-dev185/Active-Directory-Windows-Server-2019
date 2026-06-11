@@ -64,7 +64,7 @@ Ce projet a pour objectif la mise en place d'une infrastructure Active Directory
 
 ### Poste client intégré au domaine
 
-![Client](captures/client-domain.png)
+![Client](https://github.com/Ben-dev185/Active-Directory-Windows-Server-2019/blob/bc947eb54badbc5fc5ae62aecb639210c44bc954/poste%20client%201.png)
 
 ![Client](captures/client-domain.png)
 
